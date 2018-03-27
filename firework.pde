@@ -1,0 +1,7 @@
+class Firework {
+ 
+  
+  void display() {
+    
+  }
+}
